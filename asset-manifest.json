@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HM-Order-food/static/css/main.7618c421.css",
+    "main.js": "/HM-Order-food/static/js/main.4e484833.js",
+    "static/media/summaryImage.png": "/HM-Order-food/static/media/summaryImage.1869efe11eed99b0f914.png",
+    "static/media/Vector.svg": "/HM-Order-food/static/media/Vector.569f7d6b6e9520fb1d1b3c77ebb21b5e.svg",
+    "index.html": "/HM-Order-food/index.html",
+    "static/media/plus.svg": "/HM-Order-food/static/media/plus.8c4f1e660740f081db95abf29cd7dd1b.svg",
+    "main.7618c421.css.map": "/HM-Order-food/static/css/main.7618c421.css.map",
+    "main.4e484833.js.map": "/HM-Order-food/static/js/main.4e484833.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7618c421.css",
+    "static/js/main.4e484833.js"
+  ]
+}
